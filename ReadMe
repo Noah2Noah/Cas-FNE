@@ -1,6 +1,10 @@
 This is an pytorch implementation of our paper.
 
-Adhering to the principles of anonymity, we have uploaded the trained model to a publicly accessible, anonymous GitHub repository. To circumvent any size limitations imposed by GitHub, the model has been segmented and compressed into multiple parts. To proceed, kindly download all the segmented sub-volumes from the provided link. After downloading, ensure that you unzip these segments and place them within the designated "cpkt" directory. Following this setup, you can directly execute the script to initiate the testing process.
+Adhering to the principles of anonymity, we have uploaded the trained model to a publicly accessible, anonymous GitHub repository. 
+To circumvent any size limitations imposed by GitHub, the model has been segmented and compressed into multiple parts. 
+To proceed, kindly download all the segmented sub-volumes from the provided link. 
+After downloading, ensure that you unzip these segments and place them within the designated "cpkt" directory.
+Following this setup, you can directly execute the script to initiate the testing process.
 
 
 link: https://github.com/Noah2Noah/Cas-FNE
