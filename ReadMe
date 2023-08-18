@@ -1,1 +1,8 @@
 
+This is an pytorch implementation of our paper.
+
+Due to size constraints, the model has been hosted in a cloud repository. To access these resources, kindly use the provided link to download the model files. Subsequently, place the downloaded files into the designated "cpkt" folder. Finally, execute the provided script to initiate the testing process.
+
+
+python test.py
+
